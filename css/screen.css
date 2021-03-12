@@ -76,10 +76,11 @@ h3{
 }
 
 h1 {
-    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    /*font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;*/
     font-size: 36px;
     line-height: 40px;
     margin: 0 0 24px;
+    font-family: "Playfair Display", serif;
 }
 
 h2 {
